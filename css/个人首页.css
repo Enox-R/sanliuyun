@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+.ui.segment.hu{
+    padding:0;
+
+}
+
+.ui.fixed.vertical.segment.head {
+    background-color: #F7F7F7;
+    font-family: SimHei;
+}
+
+.ui.text.menu{
+    padding-left:200px;
+    padding-right: 100px;
+    margin: 0;
+}
+.ui.basic.segment.dante{
+    margin: 0 200px 0 200px;
+}
+.meng{
+    font-size:20px;
+    color:rgb(179, 175, 175);
+}
+.top.aligned{
+    font-size:20px;
+
+}
+.xue{
+    color: black;
+}
