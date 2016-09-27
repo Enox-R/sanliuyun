@@ -37,6 +37,7 @@
 
 #register{
   border: 0 solid white;
+  background-color:rgb(246, 246, 246);
 }
 #register-button{
   color: white;
