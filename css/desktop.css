@@ -1,9 +1,9 @@
 body{
     background-color: rgb(238, 238, 238);
 }
-.ui.segment.hu{
+.ui.vertical.segment.hu{
     padding:0;
-
+    background-color: white;
 }
 
 .ui.fixed.vertical.segment.head {
@@ -12,9 +12,10 @@ body{
 }
 
 .ui.text.menu{
-    padding-left:200px;
+    padding-left: 50px;
     padding-right: 100px;
     margin: 0;
+    height: 50px;
 }
 .ui.basic.segment.dante{
     margin: 0 200px 0 200px;
