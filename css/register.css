@@ -37,6 +37,7 @@
 
 #register{
   border: 0 solid white;
+  background-color:rgb(246, 246, 246);
 }
 #register-button{
   color: white;
@@ -49,4 +50,7 @@
 .ui.center.aligned.container > a{
   color: black;
   font-weight: 600;
+}
+body{
+  background-color:#F7F7F7;
 }
